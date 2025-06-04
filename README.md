@@ -7,7 +7,7 @@ Certainly! Here is a comprehensive **README.md** for your "Rainfall Prediction U
 
 # Rainfall Prediction Using Random Forest
 
-Predicting rainfall is crucial for agriculture, disaster management, and daily planning. This project uses a Random Forest Classifier to predict whether it will rain on a given day based on meteorological data.
+Predicting rainfall is crucial for agriculture, disaster management, and daily planning. This project uses a Random Forest Classifier to predict whether it will rain on a given day based on meteorological data. This is a basic ML model which depicts Predictive modelling as a prominent and useful skill.
 
 ---
 
